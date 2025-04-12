@@ -15,7 +15,7 @@ The project consists of 10 individual lab activities simulating real-world netwo
 ## 📁 Repository Structure
 
 ```
-packet-tracer-network-simulation/
+cisco-packet-tracer-scl/
 ├── report.pdf         # Complete project report with explanations and screenshots
 ├── pkt-files/         # All Cisco Packet Tracer simulation files (.pkt)
 ├── screenshots/       # Screenshots used in the report
