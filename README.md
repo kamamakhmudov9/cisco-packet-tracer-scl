@@ -2,7 +2,7 @@
 
 This repository contains a series of structured network simulation activities completed using Cisco Packet Tracer. The work is part of a university-level Computer Networks course and demonstrates practical understanding of core networking concepts, protocols, and configurations.
 
-Authored by **Kamran Maxmudov**, junior student at **Inha University in Tashkent**.
+Authored by **Komron Maxmudov**, junior student at **Inha University in Tashkent**.
 
 ---
 
