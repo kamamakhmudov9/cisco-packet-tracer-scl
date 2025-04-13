@@ -12,7 +12,7 @@ The project consists of 10 individual lab activities simulating real-world netwo
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 cisco-packet-tracer-scl/
